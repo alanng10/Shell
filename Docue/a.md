@@ -53,3 +53,7 @@ Shell has park mark.
 Shell has park cross.
 
 Shell has major.
+
+Shell has major on trigg.
+
+Shell has major on process.
