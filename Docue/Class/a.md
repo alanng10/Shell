@@ -2,7 +2,7 @@
 
 Shell field, maide, and var has class.
 
-The class can be only Bool, Int, orn String.
+The class can be only Bool, Int, String orn Array.
 
 Shell has none Any class.
 
