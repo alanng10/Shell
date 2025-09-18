@@ -59,3 +59,9 @@ Shell has major on trigg.
 Shell has major on process.
 
 Shell has major on order.
+
+Shell source file has extend.
+
+The extend is ".sel".
+
+The file extend word is Shell Execute Lang Source.
