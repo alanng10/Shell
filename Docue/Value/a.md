@@ -3,4 +3,4 @@
 Shell has Value.
 
 Value is BoolValue, IntValue, IntSignValue, IntHexValue,
-IntHexSignValue orn StringValue.
+IntHexSignValue orn StringValue, same as Class Lang.
