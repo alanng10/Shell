@@ -9,3 +9,5 @@ List index is any class in Shell.
 List value is any class in Shell.
 
 List is sequential.
+
+List maide add, ins, rem, clear is heap execute certain.
